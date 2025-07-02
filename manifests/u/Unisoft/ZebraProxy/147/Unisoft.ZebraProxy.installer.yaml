@@ -1,0 +1,9 @@
+PackageIdentifier: Unisoft.ZebraProxy
+PackageVersion: 1.0.0
+Installers:
+- Architecture: x64
+  InstallerType: msi
+  InstallerUrl: https://dev.unisoft.no/lims/ZebraProxyInstaller.exe
+  InstallerSha256: ABC123...
+ManifestType: installer
+ManifestVersion: 1.4.0
