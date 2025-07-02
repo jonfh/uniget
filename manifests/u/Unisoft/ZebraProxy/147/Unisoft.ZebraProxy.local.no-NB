@@ -1,0 +1,9 @@
+PackageIdentifier: Unisoft.ZebraProxy
+PackageVersion: 1.0.0
+PackageLocale: no-NB
+Publisher: Unisoft AS
+PackageName: ZebraProxy
+License: MIT
+ShortDescription: Utskrift at etiketter fra LIMS-in-a-box
+ManifestType: defaultLocale
+ManifestVersion: 1.4.0
